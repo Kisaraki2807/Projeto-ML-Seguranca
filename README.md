@@ -9,7 +9,7 @@ O documento contendo a Introdução, Problema, Objetivos e Justificativa, demais
 
 Versão 1.0 = main/article/Segurança_Escolar_Planejamento_e_Gestao_de_Projetos
 
-Desenvolvimento no Overleaf
+Desenvolvimento no Overleaf - https://www.overleaf.com/project/6a83cb778a4ac76df76ab246
 
 ## Kanban e Backlog
 Ambos como views diferentes no projeto associado.
