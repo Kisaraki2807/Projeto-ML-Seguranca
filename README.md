@@ -1,23 +1,21 @@
-# Segurança Escolar — Detecção Inteligente de Situações de Risco
+#Segurança Escolar — Detecção Inteligente de Situações de Risco
 
-Este repositório contém atualmente as entregas da Sprint 0 referentes ao projeto de detecção de risco em relatos escolares, utilizando Machine Learning com foco no cidadão e na Segurança Pública.
+Este repositório contém atualmente as entregas da Sprint 0 referentes ao projeto de detecção de risco em relatos escolares, utilizando Machine Learning integrado à inteligência geográfica, com foco no cidadão e na Segurança Pública.
 
-##  Artigo Científico
-O documento contendo a Introdução, Problema, Objetivos e Justificativa, demais seções estão sendo elaboradas.
-main/article/Segurança_Escolar_Planejamento_e_Gestao_de_Projetos
+##Artigo Científico
+O documento contendo a Introdução, Problema, Objetivos e Justificativa, demais seções estão sendo elaboradas. main/article/Segurança_Escolar_Planejamento_e_Gestao_de_Projetos
 
-##  Kanban e Backlog
+##Kanban e Backlog
 Ambos como views diferentes no projeto associado.
 
-##  Business Model Canvas
+##Business Model Canvas
 
 | Componente | Descrição |
 | :--- | :--- |
-| **Problema** | A triagem manual de denúncias escolares é lenta e ineficiente, o que atrasa a resposta da Segurança Pública e coloca o cidadão em risco contínuo. |
-| **Solução** | Dashboard visual desenvolvido em Streamlit com motor de Machine Learning para processamento e classificação automática de risco nos relatos. |
-| **Proposta de Valor** | Plataforma inteligente que analisa relatos escolares e alerta a Segurança Pública instantaneamente, garantindo proteção ágil, preventiva e transparente para o cidadão. |
-| **Vantagem Injusta** | Arquitetura focada estritamente na linguagem, neologismos e contexto estudantil brasileiro. |
-| **Segmentos de Clientes** | Cidadãos (alunos, pais e comunidade local). |
-| **Canais** | Portais de transparência do governo, secretarias de educação e campanhas de integração nas escolas. |
-| **Métricas-Chave** | Acurácia do algoritmo na classificação de risco e redução no tempo médio de resposta das viaturas após o alerta. |
-
+| Problema | A triagem manual de denúncias escolares é lenta, e a ausência de espacialização dos dados dificulta a visão macro e a alocação de recursos preventivos pela Segurança Pública. |
+| Solução | Dashboard visual desenvolvido em Streamlit com motor de Machine Learning (NLP) para classificação de gravidade em relatos e plotagem de mapas de risco cruzados com dados do Censo Escolar de SC. |
+| Proposta de Valor | Plataforma inteligente que une análise de linguagem natural e geoprocessamento para transformar denúncias em um índice visual de atenção, garantindo proteção ágil e preventiva. |
+| Vantagem Injusta | Arquitetura metodológica que cruza dados oficiais de geolocalização (INEP) com um modelo NLP adaptado para a identificação de gravidade no contexto estudantil brasileiro. |
+| Segmentos de Clientes | Órgãos de Segurança Pública, gestores escolares e cidadãos (alunos, pais e comunidade local). |
+| Canais | Portais de transparência do governo, secretarias de educação e campanhas de integração nas escolas. |
+| Métricas-Chave | Acurácia do algoritmo na classificação de gravidade dos relatos e tempo de resposta do sistema para processamento do texto e atualização do mapa de risco. |
