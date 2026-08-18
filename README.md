@@ -1,4 +1,4 @@
-#Segurança Escolar — Detecção Inteligente de Situações de Risco
+#Segurança Escolar — Detecção Inteligente de Situações de Risco#
 
 Este repositório contém atualmente as entregas da Sprint 0 referentes ao projeto de detecção de risco em relatos escolares, utilizando Machine Learning integrado à inteligência geográfica, com foco no cidadão e na Segurança Pública.
 
