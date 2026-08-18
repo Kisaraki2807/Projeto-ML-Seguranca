@@ -1,18 +1,18 @@
-#Segurança Escolar — Detecção Inteligente de Situações de Risco
+# Segurança Escolar — Detecção Inteligente de Situações de Risco
 
 Este repositório contém atualmente as entregas da Sprint 0 referentes ao projeto de detecção de risco em relatos escolares, utilizando Machine Learning integrado à inteligência geográfica, com foco no cidadão e na Segurança Pública.
 
 ---
 
-##Artigo Científico
+## Artigo Científico
 O documento contendo a Introdução, Problema, Objetivos e Justificativa, demais seções estão sendo elaboradas. main/article/Segurança_Escolar_Planejamento_e_Gestao_de_Projetos
 
-##Kanban e Backlog
+## Kanban e Backlog
 Ambos como views diferentes no projeto associado.
 
 ---
 
-##Business Model Canvas
+## Business Model Canvas
 
 | Componente | Descrição |
 | :--- | :--- |
