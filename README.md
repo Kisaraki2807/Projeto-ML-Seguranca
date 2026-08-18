@@ -5,7 +5,9 @@ Este repositório contém atualmente as entregas da Sprint 0 referentes ao proje
 ---
 
 ## Artigo Científico
-O documento contendo a Introdução, Problema, Objetivos e Justificativa, demais seções estão sendo elaboradas. main/article/Segurança_Escolar_Planejamento_e_Gestao_de_Projetos
+O documento contendo a Introdução, Problema, Objetivos e Justificativa, demais seções estão sendo elaboradas. 
+Versão 1.0 = main/article/Segurança_Escolar_Planejamento_e_Gestao_de_Projetos
+Desenvolvimento no Overleaf
 
 ## Kanban e Backlog
 Ambos como views diferentes no projeto associado.
