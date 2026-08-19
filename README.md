@@ -21,6 +21,9 @@ O projeto utiliza três bases de dados principais para viabilizar a análise esp
 * **Base Sintética (Denúncias Escolares):** Devido às regras de sigilo do ECA e da LGPD, não é possível utilizar denúncias reais envolvendo menores de idade. Por isso, utilizaremos uma base de dados simulada para adaptar o modelo, ensinando a IA a interpretar o vocabulário do ambiente escolar e a classificar a gravidade dos relatos em níveis de risco (Baixo, Médio ou Alto).
 * **PeNSE 2024 (IBGE):** Os microdados da Pesquisa Nacional de Saúde do Escolar (PeNSE) serão utilizados para estruturar o cenário real de saúde e segurança das escolas nas capitais brasileiras. Por ser uma pesquisa oficial, ela fornece indicadores muito mais organizados e específicos do que os boletins de ocorrência policiais, garantindo informações seguras e sólidas para a construção do painel de risco.
 
+Bases de dados na pasta /data/ e também pelo Google Colab:
+https://colab.research.google.com/drive/1tIYo9nI6l-Jfjgs7rbxkP9rv4QJZja5S#scrollTo=2r_6ApldbLwa
+
 ---
 
 ## Kanban e Backlog
