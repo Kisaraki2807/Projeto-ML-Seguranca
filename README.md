@@ -11,6 +11,18 @@ Versão 1.0 = main/article/Segurança_Escolar_Planejamento_e_Gestao_de_Projetos
 
 Desenvolvimento no Overleaf - https://www.overleaf.com/project/6a83cb778a4ac76df76ab246
 
+---
+
+## Bases de Dados e Justificativa
+
+O projeto utiliza três bases de dados principais para viabilizar a análise espacial e o treinamento do modelo de Inteligência Artificial:
+
+* **ToLD-Br (Textos Tóxicos):** Este dataset público será usado para o treinamento inicial da Inteligência Artificial. Como ele conta com milhares de textos já rotulados, é a ferramenta ideal para que o algoritmo aprenda a identificar linguagem agressiva, ofensas e toxicidade no português brasileiro.
+* **Base Sintética (Denúncias Escolares):** Devido às regras de sigilo do ECA e da LGPD, não é possível utilizar denúncias reais envolvendo menores de idade. Por isso, utilizaremos uma base de dados simulada para adaptar o modelo, ensinando a IA a interpretar o vocabulário do ambiente escolar e a classificar a gravidade dos relatos em níveis de risco (Baixo, Médio ou Alto).
+* **PeNSE 2024 (IBGE):** Os microdados da Pesquisa Nacional de Saúde do Escolar (PeNSE) serão utilizados para estruturar o cenário real de saúde e segurança das escolas nas capitais brasileiras. Por ser uma pesquisa oficial, ela fornece indicadores muito mais organizados e específicos do que os boletins de ocorrência policiais, garantindo informações seguras e sólidas para a construção do painel de risco.
+
+---
+
 ## Kanban e Backlog
 Ambos como views diferentes no projeto associado.
 
