@@ -5,9 +5,6 @@ Este repositório contém atualmente as entregas da Sprint 0 referentes ao proje
 ---
 
 ## Artigo Científico
-O documento contendo a Introdução, Problema, Objetivos e Justificativa, demais seções estão sendo elaboradas. 
-
-Versão 1.0 = main/article/Segurança_Escolar_Planejamento_e_Gestao_de_Projetos
 
 Desenvolvimento no Overleaf - https://www.overleaf.com/project/6a83cb778a4ac76df76ab246
 
@@ -42,3 +39,17 @@ Ambos como views diferentes no projeto associado.
 | Segmentos de Clientes | Órgãos de Segurança Pública, gestores escolares e cidadãos (alunos, pais e comunidade local). |
 | Canais | Portais de transparência do governo, secretarias de educação e campanhas de integração nas escolas. |
 | Métricas-Chave | Acurácia do algoritmo na classificação de gravidade dos relatos e tempo de resposta do sistema para processamento do texto e atualização do mapa de risco. |
+
+---
+
+#### Histórias de Usuário
+
+* **HU01 - Relato Cidadão:** 
+  * **Quem? (Persona):** Cidadão (aluno, pai ou membro da comunidade local)[cite: 1].
+  * **O quê? (Ação e Visualização):** Precisa inserir um relato textual sobre um incidente escolar e ver o formato visual mais intuitivo de que sua notificação foi recebida[cite: 1].
+  * **Para quê? (Valor):** Para garantir o amparo das autoridades caso o nível de ameaça seja alto[cite: 1].
+
+* **HU02 - Visão de Segurança Pública:** 
+  * **Quem? (Persona):** Gestor de Segurança Pública, educacional ou membro da sociedade[cite: 1].
+  * **O quê? (Ação e Visualização):** Precisa visualizar a variação dos níveis de risco num painel com filtros por área, integrando dados estruturais[cite: 1].
+  * **Para quê? (Valor):** Para tomar a decisão imediata de alocar recursos e realizar intervenções preventivas, resolvendo o atraso na análise de denúncias[cite: 1].
