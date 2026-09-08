@@ -1,0 +1,1001 @@
+id_denuncia,texto_denuncia,nivel_risco
+1,Encontraram um revólver escondido no banheiro masculino.,Alto Risco
+2,Me chamaram de feio no recreio. - Aconteceu na quarta.,Baixo Risco
+3,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na segunda.,Baixo Risco
+4,Um aluno da minha sala trouxe uma faca na mochila e me mostrou.,Alto Risco
+5,"Me empurraram na escada de propósito, quase caí. - Aconteceu na sexta.",Risco Moderado
+6,Pegaram minha borracha e não devolveram.,Baixo Risco
+7,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+8,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+9,Um aluno ameaçou matar a professora depois de levar uma advertência.,Alto Risco
+10,Um menino da outra turma me deu língua.,Baixo Risco
+11,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+12,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar.,Risco Moderado
+13,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+14,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na sexta.,Baixo Risco
+15,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola.,Alto Risco
+16,"Me empurraram na escada de propósito, quase caí. - Aconteceu na segunda.",Risco Moderado
+17,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+18,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na segunda.,Baixo Risco
+19,"Me empurraram na escada de propósito, quase caí. - Aconteceu na sexta.",Risco Moderado
+20,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+21,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na quarta.,Risco Moderado
+22,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na quarta.,Baixo Risco
+23,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+24,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na quinta.,Risco Moderado
+25,Me chamaram de feio no recreio.,Baixo Risco
+26,Pegaram minha borracha e não devolveram. - Aconteceu na quinta.,Baixo Risco
+27,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na quinta.,Baixo Risco
+28,Pegaram minha borracha e não devolveram.,Baixo Risco
+29,Esconderam meu estojo de sacanagem.,Baixo Risco
+30,Encontraram um revólver escondido no banheiro masculino. - Aconteceu na terça.,Alto Risco
+31,"Me empurraram na escada de propósito, quase caí. - Aconteceu na quarta.",Risco Moderado
+32,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+33,Pegaram minha borracha e não devolveram.,Baixo Risco
+34,Esconderam meu estojo de sacanagem. - Aconteceu na terça.,Baixo Risco
+35,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+36,Vi um cara vendendo drogas no portão e ele disse que está armado.,Alto Risco
+37,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola. - Aconteceu na sexta.,Alto Risco
+38,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+39,"Bateram muito num menino no pátio, ele estava sangrando bastante.",Alto Risco
+40,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na terça.,Risco Moderado
+41,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na quinta.,Baixo Risco
+42,Esconderam meu estojo de sacanagem. - Aconteceu na sexta.,Baixo Risco
+43,Me chamaram de feio no recreio. - Aconteceu na terça.,Baixo Risco
+44,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na quinta.,Risco Moderado
+45,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na quarta.,Risco Moderado
+46,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na sexta.,Risco Moderado
+47,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+48,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na quinta.,Risco Moderado
+49,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola.,Alto Risco
+50,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+51,Me chamaram de feio no recreio. - Aconteceu na sexta.,Baixo Risco
+52,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+53,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+54,Encontraram um revólver escondido no banheiro masculino. - Aconteceu na segunda.,Alto Risco
+55,Pegaram minha borracha e não devolveram.,Baixo Risco
+56,Vi um cara vendendo drogas no portão e ele disse que está armado.,Alto Risco
+57,Estão combinando um ataque armado no grupo do Discord da escola.,Alto Risco
+58,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na sexta.,Baixo Risco
+59,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+60,Vi um cara vendendo drogas no portão e ele disse que está armado.,Alto Risco
+61,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+62,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+63,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+64,Um menino da outra turma me deu língua. - Aconteceu na terça.,Baixo Risco
+65,Um aluno ameaçou matar a professora depois de levar uma advertência.,Alto Risco
+66,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola.,Alto Risco
+67,Um aluno ameaçou matar a professora depois de levar uma advertência.,Alto Risco
+68,Pegaram minha borracha e não devolveram. - Aconteceu na terça.,Baixo Risco
+69,Me chamaram de feio no recreio. - Aconteceu na quarta.,Baixo Risco
+70,Esconderam meu estojo de sacanagem.,Baixo Risco
+71,Um menino da outra turma me deu língua.,Baixo Risco
+72,Me chamaram de feio no recreio. - Aconteceu na quinta.,Baixo Risco
+73,Esconderam meu estojo de sacanagem.,Baixo Risco
+74,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na sexta.,Baixo Risco
+75,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+76,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na quarta.,Baixo Risco
+77,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+78,Um menino da outra turma me deu língua. - Aconteceu na terça.,Baixo Risco
+79,Esconderam meu estojo de sacanagem.,Baixo Risco
+80,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na terça.,Risco Moderado
+81,Um menino da outra turma me deu língua. - Aconteceu na sexta.,Baixo Risco
+82,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+83,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+84,Vi um cara vendendo drogas no portão e ele disse que está armado. - Aconteceu na segunda.,Alto Risco
+85,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na quinta.,Baixo Risco
+86,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na segunda.,Risco Moderado
+87,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+88,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na sexta.,Risco Moderado
+89,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na sexta.,Risco Moderado
+90,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+91,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+92,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+93,Esconderam meu estojo de sacanagem. - Aconteceu na segunda.,Baixo Risco
+94,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+95,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na terça.,Risco Moderado
+96,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+97,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+98,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+99,Um menino da outra turma me deu língua. - Aconteceu na quarta.,Baixo Risco
+100,Um aluno ameaçou matar a professora depois de levar uma advertência.,Alto Risco
+101,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na sexta.,Risco Moderado
+102,Me chamaram de feio no recreio. - Aconteceu na segunda.,Baixo Risco
+103,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na segunda.,Risco Moderado
+104,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola.,Alto Risco
+105,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na quinta.,Risco Moderado
+106,"Me empurraram na escada de propósito, quase caí. - Aconteceu na sexta.",Risco Moderado
+107,Estão combinando um ataque armado no grupo do Discord da escola. - Aconteceu na segunda.,Alto Risco
+108,Estão combinando um ataque armado no grupo do Discord da escola. - Aconteceu na quinta.,Alto Risco
+109,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na quarta.,Baixo Risco
+110,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na quarta.,Risco Moderado
+111,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na quarta.,Baixo Risco
+112,Um menino da outra turma me deu língua.,Baixo Risco
+113,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+114,Um aluno da minha sala trouxe uma faca na mochila e me mostrou. - Aconteceu na sexta.,Alto Risco
+115,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na quarta.,Risco Moderado
+116,Encontraram um revólver escondido no banheiro masculino.,Alto Risco
+117,Pegaram minha borracha e não devolveram.,Baixo Risco
+118,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola.,Alto Risco
+119,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na quarta.,Baixo Risco
+120,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+121,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+122,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na terça.,Baixo Risco
+123,Um aluno ameaçou matar a professora depois de levar uma advertência. - Aconteceu na sexta.,Alto Risco
+124,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na segunda.,Risco Moderado
+125,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+126,Um menino da outra turma me deu língua.,Baixo Risco
+127,Esconderam meu estojo de sacanagem.,Baixo Risco
+128,Um aluno ameaçou matar a professora depois de levar uma advertência. - Aconteceu na sexta.,Alto Risco
+129,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+130,Esconderam meu estojo de sacanagem.,Baixo Risco
+131,Pegaram minha borracha e não devolveram. - Aconteceu na segunda.,Baixo Risco
+132,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na quinta.,Baixo Risco
+133,"Me empurraram na escada de propósito, quase caí. - Aconteceu na quarta.",Risco Moderado
+134,Vi um cara vendendo drogas no portão e ele disse que está armado.,Alto Risco
+135,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na terça.,Risco Moderado
+136,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+137,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na segunda.,Baixo Risco
+138,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na segunda.,Baixo Risco
+139,Um menino da outra turma me deu língua.,Baixo Risco
+140,Um menino da outra turma me deu língua.,Baixo Risco
+141,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na sexta.,Baixo Risco
+142,Me chamaram de feio no recreio. - Aconteceu na sexta.,Baixo Risco
+143,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na terça.,Risco Moderado
+144,Me chamaram de feio no recreio.,Baixo Risco
+145,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+146,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+147,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na terça.,Risco Moderado
+148,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+149,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+150,Esconderam meu estojo de sacanagem. - Aconteceu na sexta.,Baixo Risco
+151,Pegaram minha borracha e não devolveram.,Baixo Risco
+152,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na quinta.,Baixo Risco
+153,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+154,Pegaram minha borracha e não devolveram. - Aconteceu na quarta.,Baixo Risco
+155,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+156,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+157,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+158,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na sexta.,Risco Moderado
+159,Me chamaram de feio no recreio.,Baixo Risco
+160,Vi um cara vendendo drogas no portão e ele disse que está armado.,Alto Risco
+161,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+162,Um aluno da minha sala trouxe uma faca na mochila e me mostrou. - Aconteceu na segunda.,Alto Risco
+163,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+164,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+165,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na terça.,Risco Moderado
+166,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na quarta.,Risco Moderado
+167,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na sexta.,Baixo Risco
+168,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+169,Um menino da outra turma me deu língua.,Baixo Risco
+170,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+171,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na quinta.,Baixo Risco
+172,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+173,Pegaram minha borracha e não devolveram.,Baixo Risco
+174,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na quinta.,Risco Moderado
+175,Esconderam meu estojo de sacanagem. - Aconteceu na quinta.,Baixo Risco
+176,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+177,Um aluno ameaçou matar a professora depois de levar uma advertência.,Alto Risco
+178,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola.,Alto Risco
+179,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na segunda.,Risco Moderado
+180,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+181,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+182,Esconderam meu estojo de sacanagem.,Baixo Risco
+183,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+184,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+185,Me chamaram de feio no recreio. - Aconteceu na segunda.,Baixo Risco
+186,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na quinta.,Risco Moderado
+187,Esconderam meu estojo de sacanagem.,Baixo Risco
+188,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na quarta.,Baixo Risco
+189,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na segunda.,Baixo Risco
+190,Um menino da outra turma me deu língua. - Aconteceu na quinta.,Baixo Risco
+191,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+192,Esconderam meu estojo de sacanagem.,Baixo Risco
+193,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na sexta.,Risco Moderado
+194,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na terça.,Baixo Risco
+195,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na sexta.,Risco Moderado
+196,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na sexta.,Baixo Risco
+197,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na terça.,Baixo Risco
+198,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na quinta.,Baixo Risco
+199,"Me empurraram na escada de propósito, quase caí. - Aconteceu na quinta.",Risco Moderado
+200,Um aluno ameaçou matar a professora depois de levar uma advertência.,Alto Risco
+201,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na terça.,Risco Moderado
+202,Um grupo ameaçou invadir a escola armados porque expulsaram um amigo deles.,Alto Risco
+203,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na sexta.,Baixo Risco
+204,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na quarta.,Risco Moderado
+205,Estão combinando um ataque armado no grupo do Discord da escola.,Alto Risco
+206,Me chamaram de feio no recreio.,Baixo Risco
+207,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+208,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na quinta.,Risco Moderado
+209,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+210,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na terça.,Baixo Risco
+211,Pegaram minha borracha e não devolveram.,Baixo Risco
+212,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na sexta.,Risco Moderado
+213,Me chamaram de feio no recreio.,Baixo Risco
+214,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+215,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+216,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+217,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar.,Risco Moderado
+218,"Bateram muito num menino no pátio, ele estava sangrando bastante. - Aconteceu na quinta.",Alto Risco
+219,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+220,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na quarta.,Risco Moderado
+221,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+222,"Me empurraram na escada de propósito, quase caí. - Aconteceu na segunda.",Risco Moderado
+223,Vi um cara vendendo drogas no portão e ele disse que está armado. - Aconteceu na quarta.,Alto Risco
+224,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na terça.,Risco Moderado
+225,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na quinta.,Risco Moderado
+226,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na sexta.,Risco Moderado
+227,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+228,Pegaram minha borracha e não devolveram. - Aconteceu na terça.,Baixo Risco
+229,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+230,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na segunda.,Baixo Risco
+231,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+232,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+233,Um menino da outra turma me deu língua.,Baixo Risco
+234,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+235,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na sexta.,Risco Moderado
+236,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+237,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+238,Um grupo ameaçou invadir a escola armados porque expulsaram um amigo deles. - Aconteceu na quarta.,Alto Risco
+239,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+240,Um menino da outra turma me deu língua.,Baixo Risco
+241,Esconderam meu estojo de sacanagem.,Baixo Risco
+242,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na terça.,Risco Moderado
+243,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na sexta.,Risco Moderado
+244,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na terça.,Baixo Risco
+245,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+246,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+247,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na terça.,Baixo Risco
+248,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na terça.,Baixo Risco
+249,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na quinta.,Risco Moderado
+250,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na sexta.,Risco Moderado
+251,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na terça.,Baixo Risco
+252,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola.,Alto Risco
+253,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na quarta.,Risco Moderado
+254,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na sexta.,Baixo Risco
+255,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+256,Pegaram minha borracha e não devolveram.,Baixo Risco
+257,Me chamaram de feio no recreio. - Aconteceu na quarta.,Baixo Risco
+258,Pegaram minha borracha e não devolveram. - Aconteceu na segunda.,Baixo Risco
+259,Me chamaram de feio no recreio. - Aconteceu na quarta.,Baixo Risco
+260,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na quinta.,Baixo Risco
+261,Um menino da outra turma me deu língua. - Aconteceu na segunda.,Baixo Risco
+262,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar.,Risco Moderado
+263,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na quarta.,Risco Moderado
+264,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+265,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+266,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+267,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+268,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na quinta.,Baixo Risco
+269,"Me empurraram na escada de propósito, quase caí. - Aconteceu na quinta.",Risco Moderado
+270,Um aluno da minha sala trouxe uma faca na mochila e me mostrou. - Aconteceu na segunda.,Alto Risco
+271,Estão combinando um ataque armado no grupo do Discord da escola.,Alto Risco
+272,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na sexta.,Risco Moderado
+273,Um menino da outra turma me deu língua. - Aconteceu na quarta.,Baixo Risco
+274,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+275,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na segunda.,Baixo Risco
+276,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+277,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar.,Risco Moderado
+278,Me chamaram de feio no recreio. - Aconteceu na quarta.,Baixo Risco
+279,Um grupo ameaçou invadir a escola armados porque expulsaram um amigo deles.,Alto Risco
+280,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+281,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+282,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na sexta.,Baixo Risco
+283,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+284,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na quarta.,Risco Moderado
+285,Um menino da outra turma me deu língua.,Baixo Risco
+286,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+287,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+288,Um menino da outra turma me deu língua.,Baixo Risco
+289,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na segunda.,Risco Moderado
+290,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+291,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola.,Alto Risco
+292,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na quinta.,Risco Moderado
+293,Esconderam meu estojo de sacanagem. - Aconteceu na terça.,Baixo Risco
+294,Estão combinando um ataque armado no grupo do Discord da escola. - Aconteceu na segunda.,Alto Risco
+295,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na sexta.,Risco Moderado
+296,"Bateram muito num menino no pátio, ele estava sangrando bastante.",Alto Risco
+297,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na quarta.,Baixo Risco
+298,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na sexta.,Baixo Risco
+299,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na segunda.,Risco Moderado
+300,Me chamaram de feio no recreio.,Baixo Risco
+301,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+302,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na quarta.,Risco Moderado
+303,Um grupo ameaçou invadir a escola armados porque expulsaram um amigo deles. - Aconteceu na quarta.,Alto Risco
+304,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na segunda.,Risco Moderado
+305,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na terça.,Risco Moderado
+306,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+307,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+308,Um aluno da minha sala trouxe uma faca na mochila e me mostrou. - Aconteceu na terça.,Alto Risco
+309,Me chamaram de feio no recreio. - Aconteceu na quinta.,Baixo Risco
+310,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+311,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+312,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na sexta.,Risco Moderado
+313,Um aluno ameaçou matar a professora depois de levar uma advertência. - Aconteceu na terça.,Alto Risco
+314,Um aluno da minha sala trouxe uma faca na mochila e me mostrou.,Alto Risco
+315,Pegaram minha borracha e não devolveram.,Baixo Risco
+316,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+317,Esconderam meu estojo de sacanagem. - Aconteceu na segunda.,Baixo Risco
+318,Esconderam meu estojo de sacanagem. - Aconteceu na quinta.,Baixo Risco
+319,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+320,Pegaram minha borracha e não devolveram.,Baixo Risco
+321,Um grupo ameaçou invadir a escola armados porque expulsaram um amigo deles.,Alto Risco
+322,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+323,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+324,Pegaram minha borracha e não devolveram.,Baixo Risco
+325,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+326,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+327,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na segunda.,Baixo Risco
+328,"Me empurraram na escada de propósito, quase caí. - Aconteceu na segunda.",Risco Moderado
+329,Me chamaram de feio no recreio.,Baixo Risco
+330,Pegaram minha borracha e não devolveram.,Baixo Risco
+331,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na segunda.,Risco Moderado
+332,Um menino da outra turma me deu língua. - Aconteceu na terça.,Baixo Risco
+333,Vi um cara vendendo drogas no portão e ele disse que está armado.,Alto Risco
+334,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+335,Um menino da outra turma me deu língua.,Baixo Risco
+336,Esconderam meu estojo de sacanagem. - Aconteceu na quinta.,Baixo Risco
+337,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+338,Um menino da outra turma me deu língua. - Aconteceu na segunda.,Baixo Risco
+339,Me chamaram de feio no recreio. - Aconteceu na quarta.,Baixo Risco
+340,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na segunda.,Risco Moderado
+341,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+342,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na segunda.,Risco Moderado
+343,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+344,Pegaram minha borracha e não devolveram.,Baixo Risco
+345,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na terça.,Baixo Risco
+346,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na terça.,Baixo Risco
+347,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+348,Um menino da outra turma me deu língua.,Baixo Risco
+349,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na quarta.,Risco Moderado
+350,Pegaram minha borracha e não devolveram. - Aconteceu na quarta.,Baixo Risco
+351,Esconderam meu estojo de sacanagem.,Baixo Risco
+352,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na quarta.,Risco Moderado
+353,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na quarta.,Baixo Risco
+354,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na quinta.,Risco Moderado
+355,Um menino da outra turma me deu língua. - Aconteceu na quinta.,Baixo Risco
+356,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+357,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na terça.,Baixo Risco
+358,"Me empurraram na escada de propósito, quase caí. - Aconteceu na terça.",Risco Moderado
+359,Esconderam meu estojo de sacanagem. - Aconteceu na segunda.,Baixo Risco
+360,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+361,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na segunda.,Baixo Risco
+362,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+363,Pegaram minha borracha e não devolveram.,Baixo Risco
+364,Um menino da outra turma me deu língua.,Baixo Risco
+365,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na quinta.,Risco Moderado
+366,Um aluno da minha sala trouxe uma faca na mochila e me mostrou.,Alto Risco
+367,Me chamaram de feio no recreio.,Baixo Risco
+368,Me chamaram de feio no recreio.,Baixo Risco
+369,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na terça.,Baixo Risco
+370,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+371,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+372,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na sexta.,Baixo Risco
+373,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na quarta.,Risco Moderado
+374,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola. - Aconteceu na quinta.,Alto Risco
+375,Pegaram minha borracha e não devolveram.,Baixo Risco
+376,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na terça.,Risco Moderado
+377,Um menino da outra turma me deu língua. - Aconteceu na terça.,Baixo Risco
+378,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+379,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na quinta.,Risco Moderado
+380,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+381,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na quarta.,Risco Moderado
+382,Me chamaram de feio no recreio. - Aconteceu na quinta.,Baixo Risco
+383,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+384,Encontraram um revólver escondido no banheiro masculino.,Alto Risco
+385,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+386,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+387,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na terça.,Risco Moderado
+388,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na quarta.,Risco Moderado
+389,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na segunda.,Risco Moderado
+390,Um menino da outra turma me deu língua. - Aconteceu na sexta.,Baixo Risco
+391,Pegaram minha borracha e não devolveram.,Baixo Risco
+392,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+393,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na quinta.,Risco Moderado
+394,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+395,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na quarta.,Risco Moderado
+396,Pegaram minha borracha e não devolveram. - Aconteceu na segunda.,Baixo Risco
+397,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+398,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na terça.,Baixo Risco
+399,"Me empurraram na escada de propósito, quase caí. - Aconteceu na sexta.",Risco Moderado
+400,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na sexta.,Risco Moderado
+401,Pegaram minha borracha e não devolveram. - Aconteceu na terça.,Baixo Risco
+402,Vi um cara vendendo drogas no portão e ele disse que está armado. - Aconteceu na quinta.,Alto Risco
+403,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+404,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola.,Alto Risco
+405,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na quinta.,Baixo Risco
+406,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na segunda.,Risco Moderado
+407,Pegaram minha borracha e não devolveram. - Aconteceu na segunda.,Baixo Risco
+408,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na sexta.,Baixo Risco
+409,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola. - Aconteceu na quarta.,Alto Risco
+410,Esconderam meu estojo de sacanagem.,Baixo Risco
+411,Me chamaram de feio no recreio.,Baixo Risco
+412,Um menino da outra turma me deu língua.,Baixo Risco
+413,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na quarta.,Risco Moderado
+414,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+415,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na quinta.,Risco Moderado
+416,Um menino da outra turma me deu língua.,Baixo Risco
+417,Encontraram um revólver escondido no banheiro masculino. - Aconteceu na quarta.,Alto Risco
+418,Estão combinando um ataque armado no grupo do Discord da escola.,Alto Risco
+419,"Me empurraram na escada de propósito, quase caí. - Aconteceu na terça.",Risco Moderado
+420,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+421,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+422,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+423,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar.,Risco Moderado
+424,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+425,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+426,Estão combinando um ataque armado no grupo do Discord da escola.,Alto Risco
+427,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na quinta.,Baixo Risco
+428,Pegaram minha borracha e não devolveram. - Aconteceu na quarta.,Baixo Risco
+429,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+430,Pegaram minha borracha e não devolveram. - Aconteceu na quarta.,Baixo Risco
+431,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na terça.,Risco Moderado
+432,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na terça.,Baixo Risco
+433,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+434,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+435,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+436,Um aluno ameaçou matar a professora depois de levar uma advertência. - Aconteceu na sexta.,Alto Risco
+437,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+438,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na sexta.,Risco Moderado
+439,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola. - Aconteceu na quinta.,Alto Risco
+440,Encontraram um revólver escondido no banheiro masculino.,Alto Risco
+441,Um menino da outra turma me deu língua. - Aconteceu na quinta.,Baixo Risco
+442,Um menino da outra turma me deu língua.,Baixo Risco
+443,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+444,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na sexta.,Baixo Risco
+445,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na segunda.,Risco Moderado
+446,Esconderam meu estojo de sacanagem. - Aconteceu na quarta.,Baixo Risco
+447,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na sexta.,Risco Moderado
+448,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na quarta.,Risco Moderado
+449,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na segunda.,Baixo Risco
+450,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+451,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola.,Alto Risco
+452,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na quinta.,Baixo Risco
+453,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na quarta.,Risco Moderado
+454,Esconderam meu estojo de sacanagem.,Baixo Risco
+455,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+456,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+457,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+458,Um menino da outra turma me deu língua. - Aconteceu na quinta.,Baixo Risco
+459,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na quarta.,Baixo Risco
+460,Um menino da outra turma me deu língua.,Baixo Risco
+461,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+462,Um menino da outra turma me deu língua.,Baixo Risco
+463,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na sexta.,Risco Moderado
+464,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na quinta.,Baixo Risco
+465,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+466,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+467,Esconderam meu estojo de sacanagem.,Baixo Risco
+468,Pegaram minha borracha e não devolveram.,Baixo Risco
+469,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na segunda.,Baixo Risco
+470,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na quarta.,Baixo Risco
+471,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na quarta.,Risco Moderado
+472,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+473,Encontraram um revólver escondido no banheiro masculino. - Aconteceu na quinta.,Alto Risco
+474,"Me empurraram na escada de propósito, quase caí. - Aconteceu na sexta.",Risco Moderado
+475,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+476,Me chamaram de feio no recreio. - Aconteceu na quinta.,Baixo Risco
+477,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola. - Aconteceu na quarta.,Alto Risco
+478,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+479,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+480,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+481,Esconderam meu estojo de sacanagem.,Baixo Risco
+482,Vi um cara vendendo drogas no portão e ele disse que está armado. - Aconteceu na sexta.,Alto Risco
+483,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+484,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na segunda.,Baixo Risco
+485,Me chamaram de feio no recreio.,Baixo Risco
+486,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar.,Risco Moderado
+487,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+488,Me chamaram de feio no recreio. - Aconteceu na terça.,Baixo Risco
+489,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+490,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na segunda.,Risco Moderado
+491,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na sexta.,Risco Moderado
+492,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na quinta.,Risco Moderado
+493,Pegaram minha borracha e não devolveram.,Baixo Risco
+494,Me chamaram de feio no recreio. - Aconteceu na sexta.,Baixo Risco
+495,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na quarta.,Risco Moderado
+496,Um menino da outra turma me deu língua.,Baixo Risco
+497,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+498,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na segunda.,Baixo Risco
+499,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na quinta.,Risco Moderado
+500,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+501,Estão combinando um ataque armado no grupo do Discord da escola.,Alto Risco
+502,Um menino da outra turma me deu língua. - Aconteceu na quarta.,Baixo Risco
+503,Pegaram minha borracha e não devolveram.,Baixo Risco
+504,Me chamaram de feio no recreio.,Baixo Risco
+505,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na segunda.,Baixo Risco
+506,Me chamaram de feio no recreio.,Baixo Risco
+507,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na terça.,Baixo Risco
+508,Um aluno ameaçou matar a professora depois de levar uma advertência. - Aconteceu na terça.,Alto Risco
+509,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na sexta.,Risco Moderado
+510,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+511,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na terça.,Baixo Risco
+512,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na terça.,Baixo Risco
+513,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+514,"Me empurraram na escada de propósito, quase caí. - Aconteceu na quinta.",Risco Moderado
+515,Um menino da outra turma me deu língua.,Baixo Risco
+516,Esconderam meu estojo de sacanagem. - Aconteceu na quarta.,Baixo Risco
+517,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na quinta.,Baixo Risco
+518,Encontraram um revólver escondido no banheiro masculino. - Aconteceu na quarta.,Alto Risco
+519,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+520,Esconderam meu estojo de sacanagem.,Baixo Risco
+521,Um grupo ameaçou invadir a escola armados porque expulsaram um amigo deles.,Alto Risco
+522,Estão combinando um ataque armado no grupo do Discord da escola.,Alto Risco
+523,Estão combinando um ataque armado no grupo do Discord da escola.,Alto Risco
+524,Estão combinando um ataque armado no grupo do Discord da escola. - Aconteceu na sexta.,Alto Risco
+525,Um aluno da minha sala trouxe uma faca na mochila e me mostrou. - Aconteceu na sexta.,Alto Risco
+526,Estão combinando um ataque armado no grupo do Discord da escola. - Aconteceu na sexta.,Alto Risco
+527,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar.,Risco Moderado
+528,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na sexta.,Baixo Risco
+529,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na sexta.,Risco Moderado
+530,Um aluno da minha sala trouxe uma faca na mochila e me mostrou.,Alto Risco
+531,Esconderam meu estojo de sacanagem.,Baixo Risco
+532,Um menino da outra turma me deu língua. - Aconteceu na quinta.,Baixo Risco
+533,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+534,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na quinta.,Risco Moderado
+535,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+536,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+537,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na quarta.,Risco Moderado
+538,Esconderam meu estojo de sacanagem.,Baixo Risco
+539,Me chamaram de feio no recreio.,Baixo Risco
+540,Esconderam meu estojo de sacanagem.,Baixo Risco
+541,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na segunda.,Risco Moderado
+542,Um menino da outra turma me deu língua.,Baixo Risco
+543,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na sexta.,Risco Moderado
+544,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+545,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+546,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na quinta.,Risco Moderado
+547,Pegaram minha borracha e não devolveram. - Aconteceu na sexta.,Baixo Risco
+548,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+549,Me chamaram de feio no recreio. - Aconteceu na sexta.,Baixo Risco
+550,Me chamaram de feio no recreio.,Baixo Risco
+551,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+552,Um menino da outra turma me deu língua. - Aconteceu na terça.,Baixo Risco
+553,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na quinta.,Baixo Risco
+554,Um aluno da minha sala trouxe uma faca na mochila e me mostrou. - Aconteceu na quinta.,Alto Risco
+555,Um menino da outra turma me deu língua. - Aconteceu na terça.,Baixo Risco
+556,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+557,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+558,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+559,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+560,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+561,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na terça.,Risco Moderado
+562,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar.,Risco Moderado
+563,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na terça.,Risco Moderado
+564,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na quinta.,Baixo Risco
+565,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+566,Pegaram minha borracha e não devolveram. - Aconteceu na segunda.,Baixo Risco
+567,Pegaram minha borracha e não devolveram. - Aconteceu na terça.,Baixo Risco
+568,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na quarta.,Baixo Risco
+569,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na terça.,Risco Moderado
+570,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+571,Um grupo ameaçou invadir a escola armados porque expulsaram um amigo deles.,Alto Risco
+572,Me chamaram de feio no recreio.,Baixo Risco
+573,Um menino da outra turma me deu língua. - Aconteceu na sexta.,Baixo Risco
+574,Encontraram um revólver escondido no banheiro masculino.,Alto Risco
+575,Encontraram um revólver escondido no banheiro masculino. - Aconteceu na sexta.,Alto Risco
+576,Estão combinando um ataque armado no grupo do Discord da escola.,Alto Risco
+577,Estão combinando um ataque armado no grupo do Discord da escola.,Alto Risco
+578,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na quarta.,Baixo Risco
+579,Um grupo ameaçou invadir a escola armados porque expulsaram um amigo deles. - Aconteceu na quinta.,Alto Risco
+580,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola.,Alto Risco
+581,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+582,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na quinta.,Risco Moderado
+583,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+584,Esconderam meu estojo de sacanagem. - Aconteceu na quinta.,Baixo Risco
+585,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na sexta.,Baixo Risco
+586,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na quinta.,Risco Moderado
+587,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+588,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na quinta.,Baixo Risco
+589,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na quarta.,Risco Moderado
+590,Um aluno ameaçou matar a professora depois de levar uma advertência.,Alto Risco
+591,Esconderam meu estojo de sacanagem. - Aconteceu na sexta.,Baixo Risco
+592,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na segunda.,Risco Moderado
+593,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+594,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+595,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+596,Me chamaram de feio no recreio. - Aconteceu na sexta.,Baixo Risco
+597,Pegaram minha borracha e não devolveram. - Aconteceu na segunda.,Baixo Risco
+598,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na quarta.,Risco Moderado
+599,Um menino da outra turma me deu língua.,Baixo Risco
+600,"Me empurraram na escada de propósito, quase caí. - Aconteceu na quarta.",Risco Moderado
+601,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na quarta.,Baixo Risco
+602,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+603,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na quarta.,Baixo Risco
+604,Me chamaram de feio no recreio.,Baixo Risco
+605,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na quinta.,Risco Moderado
+606,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+607,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na terça.,Risco Moderado
+608,Um menino da outra turma me deu língua. - Aconteceu na quarta.,Baixo Risco
+609,Esconderam meu estojo de sacanagem. - Aconteceu na segunda.,Baixo Risco
+610,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+611,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+612,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+613,Estão combinando um ataque armado no grupo do Discord da escola. - Aconteceu na quarta.,Alto Risco
+614,Um menino da outra turma me deu língua.,Baixo Risco
+615,Estão combinando um ataque armado no grupo do Discord da escola. - Aconteceu na terça.,Alto Risco
+616,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+617,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na terça.,Risco Moderado
+618,Um menino da outra turma me deu língua. - Aconteceu na quinta.,Baixo Risco
+619,Um menino da outra turma me deu língua.,Baixo Risco
+620,Estão combinando um ataque armado no grupo do Discord da escola. - Aconteceu na quinta.,Alto Risco
+621,Um menino da outra turma me deu língua.,Baixo Risco
+622,Pegaram minha borracha e não devolveram. - Aconteceu na quinta.,Baixo Risco
+623,Um grupo ameaçou invadir a escola armados porque expulsaram um amigo deles. - Aconteceu na quarta.,Alto Risco
+624,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na terça.,Baixo Risco
+625,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+626,Um grupo ameaçou invadir a escola armados porque expulsaram um amigo deles.,Alto Risco
+627,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na quarta.,Risco Moderado
+628,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+629,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+630,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+631,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+632,Um menino da outra turma me deu língua.,Baixo Risco
+633,Esconderam meu estojo de sacanagem. - Aconteceu na terça.,Baixo Risco
+634,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na sexta.,Baixo Risco
+635,Um aluno da minha sala trouxe uma faca na mochila e me mostrou. - Aconteceu na segunda.,Alto Risco
+636,"Me empurraram na escada de propósito, quase caí. - Aconteceu na quarta.",Risco Moderado
+637,Me chamaram de feio no recreio.,Baixo Risco
+638,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+639,Pegaram minha borracha e não devolveram. - Aconteceu na quarta.,Baixo Risco
+640,Me chamaram de feio no recreio.,Baixo Risco
+641,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na quinta.,Risco Moderado
+642,Estão combinando um ataque armado no grupo do Discord da escola. - Aconteceu na sexta.,Alto Risco
+643,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na quinta.,Risco Moderado
+644,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+645,"Bateram muito num menino no pátio, ele estava sangrando bastante.",Alto Risco
+646,Esconderam meu estojo de sacanagem.,Baixo Risco
+647,Um aluno da minha sala trouxe uma faca na mochila e me mostrou. - Aconteceu na quinta.,Alto Risco
+648,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola.,Alto Risco
+649,Um aluno ameaçou matar a professora depois de levar uma advertência.,Alto Risco
+650,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na segunda.,Risco Moderado
+651,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na quinta.,Baixo Risco
+652,Um menino da outra turma me deu língua. - Aconteceu na quarta.,Baixo Risco
+653,Um aluno ameaçou matar a professora depois de levar uma advertência. - Aconteceu na sexta.,Alto Risco
+654,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na terça.,Baixo Risco
+655,Vi um cara vendendo drogas no portão e ele disse que está armado. - Aconteceu na quinta.,Alto Risco
+656,"Bateram muito num menino no pátio, ele estava sangrando bastante.",Alto Risco
+657,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na quinta.,Risco Moderado
+658,Pegaram minha borracha e não devolveram.,Baixo Risco
+659,Pegaram minha borracha e não devolveram.,Baixo Risco
+660,Um menino da outra turma me deu língua. - Aconteceu na terça.,Baixo Risco
+661,Me chamaram de feio no recreio.,Baixo Risco
+662,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na quarta.,Risco Moderado
+663,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na segunda.,Baixo Risco
+664,Um menino da outra turma me deu língua. - Aconteceu na sexta.,Baixo Risco
+665,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na sexta.,Baixo Risco
+666,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+667,Um menino da outra turma me deu língua. - Aconteceu na segunda.,Baixo Risco
+668,Me chamaram de feio no recreio.,Baixo Risco
+669,Um aluno ameaçou matar a professora depois de levar uma advertência.,Alto Risco
+670,Pegaram minha borracha e não devolveram. - Aconteceu na sexta.,Baixo Risco
+671,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na quarta.,Risco Moderado
+672,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na terça.,Risco Moderado
+673,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na sexta.,Baixo Risco
+674,Esconderam meu estojo de sacanagem. - Aconteceu na sexta.,Baixo Risco
+675,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+676,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar.,Risco Moderado
+677,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+678,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na quarta.,Baixo Risco
+679,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na terça.,Risco Moderado
+680,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na terça.,Risco Moderado
+681,Esconderam meu estojo de sacanagem. - Aconteceu na sexta.,Baixo Risco
+682,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na segunda.,Risco Moderado
+683,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+684,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+685,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+686,Me chamaram de feio no recreio. - Aconteceu na segunda.,Baixo Risco
+687,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+688,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+689,Um grupo ameaçou invadir a escola armados porque expulsaram um amigo deles.,Alto Risco
+690,Pegaram minha borracha e não devolveram. - Aconteceu na quarta.,Baixo Risco
+691,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na terça.,Risco Moderado
+692,Pegaram minha borracha e não devolveram. - Aconteceu na sexta.,Baixo Risco
+693,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+694,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na sexta.,Baixo Risco
+695,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+696,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na quarta.,Risco Moderado
+697,"Bateram muito num menino no pátio, ele estava sangrando bastante. - Aconteceu na sexta.",Alto Risco
+698,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+699,Encontraram um revólver escondido no banheiro masculino. - Aconteceu na terça.,Alto Risco
+700,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na segunda.,Baixo Risco
+701,Esconderam meu estojo de sacanagem.,Baixo Risco
+702,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+703,Um aluno da minha sala trouxe uma faca na mochila e me mostrou.,Alto Risco
+704,Me chamaram de feio no recreio.,Baixo Risco
+705,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na quarta.,Baixo Risco
+706,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+707,Esconderam meu estojo de sacanagem.,Baixo Risco
+708,Me chamaram de feio no recreio. - Aconteceu na terça.,Baixo Risco
+709,Vi um cara vendendo drogas no portão e ele disse que está armado. - Aconteceu na sexta.,Alto Risco
+710,Um grupo ameaçou invadir a escola armados porque expulsaram um amigo deles. - Aconteceu na quinta.,Alto Risco
+711,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+712,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+713,Um aluno da minha sala trouxe uma faca na mochila e me mostrou. - Aconteceu na sexta.,Alto Risco
+714,Esconderam meu estojo de sacanagem.,Baixo Risco
+715,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+716,Me chamaram de feio no recreio. - Aconteceu na terça.,Baixo Risco
+717,Esconderam meu estojo de sacanagem.,Baixo Risco
+718,Estão combinando um ataque armado no grupo do Discord da escola. - Aconteceu na terça.,Alto Risco
+719,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+720,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar.,Risco Moderado
+721,Encontraram um revólver escondido no banheiro masculino.,Alto Risco
+722,Me chamaram de feio no recreio.,Baixo Risco
+723,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na sexta.,Baixo Risco
+724,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na quinta.,Baixo Risco
+725,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+726,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+727,Um menino da outra turma me deu língua.,Baixo Risco
+728,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+729,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+730,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na quinta.,Baixo Risco
+731,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na quarta.,Risco Moderado
+732,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+733,Um menino da outra turma me deu língua.,Baixo Risco
+734,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na quinta.,Baixo Risco
+735,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+736,Um grupo ameaçou invadir a escola armados porque expulsaram um amigo deles. - Aconteceu na sexta.,Alto Risco
+737,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na quinta.,Risco Moderado
+738,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na sexta.,Risco Moderado
+739,Me chamaram de feio no recreio.,Baixo Risco
+740,Um menino da outra turma me deu língua.,Baixo Risco
+741,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+742,Encontraram um revólver escondido no banheiro masculino.,Alto Risco
+743,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na quarta.,Baixo Risco
+744,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+745,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na sexta.,Risco Moderado
+746,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+747,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+748,Um menino da outra turma me deu língua.,Baixo Risco
+749,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na terça.,Risco Moderado
+750,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na quinta.,Risco Moderado
+751,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na quarta.,Baixo Risco
+752,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+753,Me chamaram de feio no recreio. - Aconteceu na segunda.,Baixo Risco
+754,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+755,Estão combinando um ataque armado no grupo do Discord da escola.,Alto Risco
+756,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na sexta.,Baixo Risco
+757,Um menino da outra turma me deu língua.,Baixo Risco
+758,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+759,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na terça.,Risco Moderado
+760,Vi um cara vendendo drogas no portão e ele disse que está armado.,Alto Risco
+761,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na quinta.,Baixo Risco
+762,Um aluno ameaçou matar a professora depois de levar uma advertência.,Alto Risco
+763,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na terça.,Risco Moderado
+764,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na sexta.,Baixo Risco
+765,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+766,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+767,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na terça.,Risco Moderado
+768,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+769,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na terça.,Baixo Risco
+770,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+771,Um menino da outra turma me deu língua.,Baixo Risco
+772,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na sexta.,Risco Moderado
+773,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+774,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+775,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+776,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na sexta.,Risco Moderado
+777,Pegaram minha borracha e não devolveram.,Baixo Risco
+778,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar.,Risco Moderado
+779,Me chamaram de feio no recreio. - Aconteceu na quarta.,Baixo Risco
+780,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na quinta.,Baixo Risco
+781,Pegaram minha borracha e não devolveram.,Baixo Risco
+782,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na quinta.,Baixo Risco
+783,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+784,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+785,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+786,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+787,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+788,Esconderam meu estojo de sacanagem.,Baixo Risco
+789,Pegaram minha borracha e não devolveram.,Baixo Risco
+790,Vi um cara vendendo drogas no portão e ele disse que está armado. - Aconteceu na terça.,Alto Risco
+791,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+792,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+793,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+794,Estão combinando um ataque armado no grupo do Discord da escola.,Alto Risco
+795,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+796,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na sexta.,Baixo Risco
+797,Encontraram um revólver escondido no banheiro masculino.,Alto Risco
+798,Um menino da outra turma me deu língua.,Baixo Risco
+799,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na quarta.,Risco Moderado
+800,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+801,Encontraram um revólver escondido no banheiro masculino.,Alto Risco
+802,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+803,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+804,"Bateram muito num menino no pátio, ele estava sangrando bastante. - Aconteceu na terça.",Alto Risco
+805,Pegaram minha borracha e não devolveram.,Baixo Risco
+806,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na terça.,Baixo Risco
+807,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na quarta.,Risco Moderado
+808,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na sexta.,Risco Moderado
+809,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola. - Aconteceu na terça.,Alto Risco
+810,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na terça.,Risco Moderado
+811,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+812,Encontraram um revólver escondido no banheiro masculino. - Aconteceu na terça.,Alto Risco
+813,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+814,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+815,Me chamaram de feio no recreio. - Aconteceu na segunda.,Baixo Risco
+816,Pegaram minha borracha e não devolveram. - Aconteceu na sexta.,Baixo Risco
+817,"Me empurraram na escada de propósito, quase caí. - Aconteceu na sexta.",Risco Moderado
+818,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+819,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+820,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na terça.,Risco Moderado
+821,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na quarta.,Risco Moderado
+822,Me chamaram de feio no recreio. - Aconteceu na quarta.,Baixo Risco
+823,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+824,Um aluno da minha sala trouxe uma faca na mochila e me mostrou.,Alto Risco
+825,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+826,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na quinta.,Risco Moderado
+827,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+828,Um aluno ameaçou matar a professora depois de levar uma advertência. - Aconteceu na quarta.,Alto Risco
+829,Encontraram um revólver escondido no banheiro masculino.,Alto Risco
+830,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na sexta.,Risco Moderado
+831,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+832,Esconderam meu estojo de sacanagem.,Baixo Risco
+833,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na terça.,Baixo Risco
+834,Esconderam meu estojo de sacanagem.,Baixo Risco
+835,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na segunda.,Risco Moderado
+836,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+837,Esconderam meu estojo de sacanagem.,Baixo Risco
+838,Estão combinando um ataque armado no grupo do Discord da escola.,Alto Risco
+839,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na quinta.,Risco Moderado
+840,Esconderam meu estojo de sacanagem. - Aconteceu na sexta.,Baixo Risco
+841,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+842,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na sexta.,Risco Moderado
+843,Me chamaram de feio no recreio. - Aconteceu na terça.,Baixo Risco
+844,Um menino da outra turma me deu língua.,Baixo Risco
+845,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na terça.,Baixo Risco
+846,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na sexta.,Baixo Risco
+847,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na terça.,Risco Moderado
+848,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola. - Aconteceu na sexta.,Alto Risco
+849,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+850,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+851,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na terça.,Risco Moderado
+852,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na segunda.,Risco Moderado
+853,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na sexta.,Baixo Risco
+854,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na quarta.,Risco Moderado
+855,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na quinta.,Baixo Risco
+856,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na segunda.,Baixo Risco
+857,Esconderam meu estojo de sacanagem. - Aconteceu na quinta.,Baixo Risco
+858,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+859,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na quinta.,Baixo Risco
+860,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na quinta.,Risco Moderado
+861,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+862,Me chamaram de feio no recreio.,Baixo Risco
+863,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+864,Pegaram minha borracha e não devolveram.,Baixo Risco
+865,Me chamaram de feio no recreio. - Aconteceu na quinta.,Baixo Risco
+866,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na quinta.,Risco Moderado
+867,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar.,Risco Moderado
+868,Um aluno ameaçou matar a professora depois de levar uma advertência. - Aconteceu na quinta.,Alto Risco
+869,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na quarta.,Baixo Risco
+870,Estão combinando um ataque armado no grupo do Discord da escola.,Alto Risco
+871,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+872,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+873,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+874,Me chamaram de feio no recreio. - Aconteceu na terça.,Baixo Risco
+875,Pegaram minha borracha e não devolveram. - Aconteceu na segunda.,Baixo Risco
+876,Esconderam meu estojo de sacanagem. - Aconteceu na quinta.,Baixo Risco
+877,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na terça.,Risco Moderado
+878,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+879,Um menino da outra turma me deu língua. - Aconteceu na quarta.,Baixo Risco
+880,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+881,Um aluno da minha sala trouxe uma faca na mochila e me mostrou.,Alto Risco
+882,Um aluno da minha sala trouxe uma faca na mochila e me mostrou.,Alto Risco
+883,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+884,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+885,Pegaram minha borracha e não devolveram. - Aconteceu na quarta.,Baixo Risco
+886,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na terça.,Risco Moderado
+887,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+888,Esconderam meu estojo de sacanagem.,Baixo Risco
+889,Me chamaram de feio no recreio. - Aconteceu na terça.,Baixo Risco
+890,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na quarta.,Risco Moderado
+891,Pegaram minha borracha e não devolveram. - Aconteceu na segunda.,Baixo Risco
+892,Pegaram minha borracha e não devolveram.,Baixo Risco
+893,Falaram mal do meu cabelo hoje de manhã. - Aconteceu na segunda.,Baixo Risco
+894,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na quinta.,Risco Moderado
+895,"Me empurraram na escada de propósito, quase caí. - Aconteceu na quinta.",Risco Moderado
+896,Pegaram minha borracha e não devolveram. - Aconteceu na sexta.,Baixo Risco
+897,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+898,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na quarta.,Risco Moderado
+899,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na terça.,Risco Moderado
+900,Um menino da outra turma me deu língua.,Baixo Risco
+901,Esconderam meu estojo de sacanagem.,Baixo Risco
+902,Esconderam meu estojo de sacanagem.,Baixo Risco
+903,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar.,Risco Moderado
+904,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo. - Aconteceu na quarta.,Risco Moderado
+905,Um aluno ameaçou matar a professora depois de levar uma advertência.,Alto Risco
+906,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+907,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+908,Me chamaram de feio no recreio.,Baixo Risco
+909,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+910,Um menino da outra turma me deu língua.,Baixo Risco
+911,Um menino da outra turma me deu língua. - Aconteceu na quinta.,Baixo Risco
+912,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na sexta.,Risco Moderado
+913,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na quarta.,Risco Moderado
+914,Um menino da outra turma me deu língua.,Baixo Risco
+915,Um grupo ficou me encurralando no banheiro no intervalo.,Risco Moderado
+916,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na sexta.,Risco Moderado
+917,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+918,Um aluno ameaçou matar a professora depois de levar uma advertência.,Alto Risco
+919,Um aluno ameaçou matar a professora depois de levar uma advertência.,Alto Risco
+920,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na quinta.,Risco Moderado
+921,Me chamaram de feio no recreio.,Baixo Risco
+922,"Me empurraram na escada de propósito, quase caí. - Aconteceu na quarta.",Risco Moderado
+923,Esconderam meu estojo de sacanagem. - Aconteceu na sexta.,Baixo Risco
+924,Me chamaram de feio no recreio. - Aconteceu na quarta.,Baixo Risco
+925,Pegaram minha borracha e não devolveram.,Baixo Risco
+926,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na quinta.,Risco Moderado
+927,Um grupo ameaçou invadir a escola armados porque expulsaram um amigo deles.,Alto Risco
+928,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na terça.,Baixo Risco
+929,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na quinta.,Baixo Risco
+930,Um grupo ficou me encurralando no banheiro no intervalo. - Aconteceu na sexta.,Risco Moderado
+931,Me chamaram de feio no recreio. - Aconteceu na quarta.,Baixo Risco
+932,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na sexta.,Risco Moderado
+933,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na segunda.,Risco Moderado
+934,Um menino da outra turma me deu língua. - Aconteceu na quinta.,Baixo Risco
+935,Me chamaram de feio no recreio.,Baixo Risco
+936,Um menino da outra turma me deu língua. - Aconteceu na quarta.,Baixo Risco
+937,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+938,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na terça.,Baixo Risco
+939,Me chamaram de feio no recreio.,Baixo Risco
+940,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na quinta.,Risco Moderado
+941,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+942,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+943,Pegaram minha borracha e não devolveram.,Baixo Risco
+944,Encontraram um revólver escondido no banheiro masculino.,Alto Risco
+945,Me chamaram de feio no recreio.,Baixo Risco
+946,Pegaram minha borracha e não devolveram.,Baixo Risco
+947,Encontraram um revólver escondido no banheiro masculino.,Alto Risco
+948,Esconderam meu estojo de sacanagem. - Aconteceu na terça.,Baixo Risco
+949,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na quinta.,Baixo Risco
+950,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na quinta.,Risco Moderado
+951,Ficam rindo da minha roupa quando eu chego na sala. - Aconteceu na terça.,Baixo Risco
+952,Esconderam meu estojo de sacanagem. - Aconteceu na segunda.,Baixo Risco
+953,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na quinta.,Baixo Risco
+954,Esconderam meu estojo de sacanagem.,Baixo Risco
+955,Vi um cara vendendo drogas no portão e ele disse que está armado.,Alto Risco
+956,Esconderam meu estojo de sacanagem. - Aconteceu na terça.,Baixo Risco
+957,Pegaram minha borracha e não devolveram. - Aconteceu na quinta.,Baixo Risco
+958,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+959,Avisaram que vão me bater na saída da escola hoje. - Aconteceu na quinta.,Risco Moderado
+960,Estão combinando um ataque armado no grupo do Discord da escola. - Aconteceu na quinta.,Alto Risco
+961,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola.,Alto Risco
+962,Ficam mandando mensagens me xingando de lixo todos os dias. - Aconteceu na segunda.,Risco Moderado
+963,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na segunda.,Risco Moderado
+964,Me chamaram de feio no recreio. - Aconteceu na quarta.,Baixo Risco
+965,Me chamaram de feio no recreio. - Aconteceu na quinta.,Baixo Risco
+966,Fizeram um grupo no WhatsApp e não me adicionaram.,Baixo Risco
+967,Colocaram um apelido chato em mim durante a aula de educação física.,Baixo Risco
+968,Me chamaram de feio no recreio.,Baixo Risco
+969,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar. - Aconteceu na terça.,Risco Moderado
+970,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na terça.,Baixo Risco
+971,Esconderam meu estojo de sacanagem. - Aconteceu na segunda.,Baixo Risco
+972,"Me empurraram na escada de propósito, quase caí.",Risco Moderado
+973,Estão espalhando mentiras graves sobre mim para a escola inteira. - Aconteceu na sexta.,Risco Moderado
+974,Estão combinando um ataque armado no grupo do Discord da escola. - Aconteceu na quinta.,Alto Risco
+975,Rasgaram meu caderno inteiro e jogaram minha mochila no lixo.,Risco Moderado
+976,"Me empurraram na escada de propósito, quase caí. - Aconteceu na segunda.",Risco Moderado
+977,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar.,Risco Moderado
+978,Ficam mandando mensagens me xingando de lixo todos os dias.,Risco Moderado
+979,Pegaram minha borracha e não devolveram.,Baixo Risco
+980,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+981,"Bateram muito num menino no pátio, ele estava sangrando bastante.",Alto Risco
+982,Criaram um perfil falso no Instagram só para postar fotos minhas e me humilhar.,Risco Moderado
+983,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+984,Roubaram meu dinheiro do lanche e disseram que se eu contar vão me pegar. - Aconteceu na sexta.,Risco Moderado
+985,Ele disse que não tem mais vontade de viver e que vai fazer uma besteira amanhã na escola.,Alto Risco
+986,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
+987,Um aluno da minha sala trouxe uma faca na mochila e me mostrou. - Aconteceu na terça.,Alto Risco
+988,Encontraram um revólver escondido no banheiro masculino. - Aconteceu na quarta.,Alto Risco
+989,Fizeram um grupo no WhatsApp e não me adicionaram. - Aconteceu na sexta.,Baixo Risco
+990,Estão combinando um ataque armado no grupo do Discord da escola. - Aconteceu na segunda.,Alto Risco
+991,Esconderam meu estojo de sacanagem. - Aconteceu na quarta.,Baixo Risco
+992,Colocaram um apelido chato em mim durante a aula de educação física. - Aconteceu na quarta.,Baixo Risco
+993,Pegaram minha borracha e não devolveram. - Aconteceu na terça.,Baixo Risco
+994,Me chamaram de feio no recreio. - Aconteceu na quinta.,Baixo Risco
+995,Avisaram que vão me bater na saída da escola hoje.,Risco Moderado
+996,Falaram mal do meu cabelo hoje de manhã.,Baixo Risco
+997,Me chamaram de feio no recreio.,Baixo Risco
+998,Ficam rindo da minha roupa quando eu chego na sala.,Baixo Risco
+999,Pegaram minha borracha e não devolveram. - Aconteceu na quinta.,Baixo Risco
+1000,Estão espalhando mentiras graves sobre mim para a escola inteira.,Risco Moderado
