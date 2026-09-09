@@ -56,6 +56,8 @@ O projeto utiliza três bases de dados principais (disponíveis na pasta `/data/
 
 Nesta etapa, foi realizada a engenharia de atributos (TF-IDF) e o treinamento dos modelos de classificação (Regressão Logística e Random Forest) utilizando o Google Colab. 
 
+Modelos constam em /models | Notebook consta em /notebook | Bancos de Dados estão em /data
+
 Os modelos de melhor desempenho (*Baseline*) foram exportados e versionados na raiz deste repositório para futura integração com o Streamlit:
 * `modelo_risco_escolar.joblib` e `vetorizador_risco.joblib`: Motor treinado na Base Sintética para classificar a gravidade da denúncia.
 * `modelo_toxicidade_told.joblib` e `vetorizador_told.joblib`: Motor treinado na ToLD-Br para detecção de toxicidade geral.
