@@ -59,3 +59,9 @@ Nesta etapa, foi realizada a engenharia de atributos (TF-IDF) e o treinamento do
 Os modelos de melhor desempenho (*Baseline*) foram exportados e versionados na raiz deste repositório para futura integração com o Streamlit:
 * `modelo_risco_escolar.joblib` e `vetorizador_risco.joblib`: Motor treinado na Base Sintética para classificar a gravidade da denúncia.
 * `modelo_toxicidade_told.joblib` e `vetorizador_told.joblib`: Motor treinado na ToLD-Br para detecção de toxicidade geral.
+
+**Os modelos da ToLD-BR são muito pesados para o github, estão no drive compartilhado: https://drive.google.com/drive/u/0/folders/1t1uM9PtaDhI-_g6Imu_geYyLnIKI1Aeb**
+
+
+
+
