@@ -16,13 +16,18 @@ st.set_page_config(
     layout="wide",
 )
 
-BASE_DIR = Path(__file__).resolve().parent
+# Pega o caminho do app.py e sobe um nível para chegar na raiz do projeto
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+# Agora ele encontra as pastas corretamente na raiz
 DATA_DIR = BASE_DIR / "data"
 MODELS_DIR = BASE_DIR / "models"
 
 RISK_FILE = DATA_DIR / "risco_capitais.csv"
+
 TOX_MODEL_FILE = MODELS_DIR / "modelo_toxicidade_told.joblib"
 TOX_VECTORIZER_FILE = MODELS_DIR / "vetorizador_told.joblib"
+ESCOLA_VECTORIZER_FILE = MODELS_DIR / "vetorizador_escola.joblib"
 RISK_MODEL_FILE = MODELS_DIR / "modelo_risco_escolar.joblib"
 
 # ============================================================
@@ -61,7 +66,6 @@ CAPITAIS = {
 
 UF_POR_CAPITAL = {v[0]: uf for uf, v in CAPITAIS.items()}
 
-
 # ============================================================
 # DADOS
 # ============================================================
@@ -74,10 +78,8 @@ def carregar_riscos():
     df["denuncias_sessao"] = 0
     return df
 
-
 if "riscos" not in st.session_state:
     st.session_state.riscos = carregar_riscos().copy()
-
 
 # ============================================================
 # MODELOS
@@ -85,9 +87,11 @@ if "riscos" not in st.session_state:
 
 @st.cache_resource
 def carregar_modelos():
+    # Carrega os 4 arquivos necessários para a pipeline completa
     arquivos = [
         TOX_MODEL_FILE,
         TOX_VECTORIZER_FILE,
+        ESCOLA_VECTORIZER_FILE,
         RISK_MODEL_FILE,
     ]
 
@@ -97,40 +101,34 @@ def carregar_modelos():
         return None, faltantes
 
     modelo_toxicidade = joblib.load(TOX_MODEL_FILE)
-    vetorizador = joblib.load(TOX_VECTORIZER_FILE)
+    vetorizador_told = joblib.load(TOX_VECTORIZER_FILE)
+    vetorizador_escola = joblib.load(ESCOLA_VECTORIZER_FILE)
     modelo_risco = joblib.load(RISK_MODEL_FILE)
 
     return {
         "toxicidade": modelo_toxicidade,
-        "vetorizador": vetorizador,
+        "vetorizador_told": vetorizador_told,
+        "vetorizador_escola": vetorizador_escola,
         "risco": modelo_risco,
     }, []
 
-
 modelos, arquivos_faltantes = carregar_modelos()
-
 
 def classificar_denuncia(texto):
     """
-    Executa o pipeline:
-        texto
-          -> TF-IDF aprendido no ToLD-BR
-          -> probabilidade de toxicidade
-          -> TF-IDF + probabilidade
-          -> classificação de gravidade
+    Executa o pipeline em dois estágios corretamente.
     """
     if modelos is None:
-        raise FileNotFoundError(
-            "Modelos não encontrados. Coloque os três arquivos .joblib "
-            "na pasta models/."
-        )
+        raise FileNotFoundError("Modelos não encontrados. Verifique a pasta models/.")
 
-    vetor = modelos["vetorizador"].transform([texto])
+    # ESTÁGIO 1: Toxicidade ToLD-BR
+    vetor_told = modelos["vetorizador_told"].transform([texto])
+    prob_toxicidade = modelos["toxicidade"].predict_proba(vetor_told)[0, 1]
 
-    prob_toxicidade = modelos["toxicidade"].predict_proba(vetor)[0, 1]
-
+    # ESTÁGIO 2: Contexto Escolar + Toxicidade
+    vetor_escola = modelos["vetorizador_escola"].transform([texto])
     features = hstack([
-        vetor,
+        vetor_escola,
         np.array([[prob_toxicidade]])
     ])
 
@@ -149,16 +147,6 @@ def classificar_denuncia(texto):
 # ============================================================
 
 def converter_gravidade_para_valor(gravidade, probabilidades):
-    """
-    Converte a saída categórica em uma intensidade entre 0 e 1.
-
-    Se as classes forem Baixa/Média/Alta, utiliza:
-        Baixa = 0.25
-        Média = 0.60
-        Alta  = 0.90
-
-    Caso contrário, utiliza a classe prevista como fallback.
-    """
     pesos = {
         "baixa": 0.25,
         "baixo": 0.25,
@@ -175,7 +163,6 @@ def converter_gravidade_para_valor(gravidade, probabilidades):
     if chave in pesos:
         return pesos[chave]
 
-    # Fallback para classes não padronizadas.
     if probabilidades:
         classes = list(probabilidades.keys())
         valores = np.linspace(0.25, 0.90, len(classes))
@@ -187,14 +174,6 @@ def converter_gravidade_para_valor(gravidade, probabilidades):
 
 
 def atualizar_risco(uf, gravidade, probabilidades):
-    """
-    Atualiza o indicador apenas na sessão atual.
-
-    A atualização é uma demonstração do mecanismo proposto:
-        R_novo = (1-alpha)*R_atual + alpha*D
-
-    Não representa uma estimativa epidemiológica real.
-    """
     alpha = 0.05
     valor_gravidade = converter_gravidade_para_valor(
         gravidade,
@@ -489,7 +468,8 @@ with tab_denuncia:
                 "Para executar a classificação, coloque em "
                 "`models/` os arquivos: "
                 "`modelo_toxicidade_told.joblib`, "
-                "`vetorizador_told.joblib` e "
+                "`vetorizador_told.joblib`, "
+                "`vetorizador_escola.joblib` e "
                 "`modelo_risco_escolar.joblib`."
             )
 
@@ -551,12 +531,10 @@ with tab_denuncia:
                 "demonstrar o funcionamento do pipeline."
             )
 
-
-
-    if modelos is not None:
-        st.success("Modelos treinados carregados com sucesso.")
-    else:
-        st.warning(
-            "Modo de demonstração: os arquivos dos modelos ainda "
-            "não estão disponíveis na pasta `models/`."
-        )
+if modelos is not None:
+    st.sidebar.success("Modelos treinados carregados com sucesso.")
+else:
+    st.sidebar.warning(
+        "Modo de demonstração: os arquivos dos modelos ainda "
+        "não estão disponíveis na pasta `models/`."
+    )
